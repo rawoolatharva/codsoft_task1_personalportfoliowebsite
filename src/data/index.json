@@ -1,0 +1,28 @@
+{
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Parallax Website",
+      "description": "Explore a visually stunning and immersive web experience with our Parallax Website. Crafted using HTML and CSS, this project showcases the power of parallax scrolling to create a dynamic, layered, and engaging user interface. As you scroll through the content, you'll enjoy the illusion of depth and movement, making for a captivating and memorable online journey.  ",
+      "link": "View Webpage",
+      "href": "https://rawoolatharva.github.io/ParallaxWebsite/"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Tindog",
+      "description": "Welcome to Tindog, the ultimate online friends-making application for dogs! Created with HTML, CSS, and Bootstrap, this playful project brings the world of social networking to our furry friends. Explore profiles, connect with fellow canines, and plan your next playdate, all with a user-friendly and charmingly designed website. Get ready to unleash the potential of your pup's social life with Tindog!",
+      "link": "View Webpage",
+      "href": "https://tindog-findyourfurriend.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Blog Website",
+      "description": "Dive into the world of creativity and expression with our Blog Website. Crafted using HTML, CSS, and JavaScript for DOM manipulation, this project is your gateway to sharing thoughts, stories, and insights. Explore a dynamic, user-friendly interface that empowers you to be the curator of your digital journal. Start sharing your voice with our Blog Website!",
+      "link": "View Webpage",
+      "href": "https://rawoolatharva.github.io/BlogWebsite/"
+    }
+  ]
+}
