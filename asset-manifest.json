@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atharva_rawool_reactjs_portfolio/static/css/main.44a71bf2.css",
+    "main.js": "/atharva_rawool_reactjs_portfolio/static/js/main.f88ba8b7.js",
+    "index.html": "/atharva_rawool_reactjs_portfolio/index.html",
+    "main.44a71bf2.css.map": "/atharva_rawool_reactjs_portfolio/static/css/main.44a71bf2.css.map",
+    "main.f88ba8b7.js.map": "/atharva_rawool_reactjs_portfolio/static/js/main.f88ba8b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a71bf2.css",
+    "static/js/main.f88ba8b7.js"
+  ]
+}
